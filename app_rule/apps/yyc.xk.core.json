@@ -6,6 +6,17 @@
   "behaviors": [
     "@abuse"
   ],
+  "accessible_folders": {
+    "data": {
+      "0de0bb60-2767-11ed-ee0f-17b7f7bf0677": {
+        "paths": [
+          "星空视频壁纸"
+        ],
+        "target_package": "yyc.xk.core",
+        "source_package": "yyc.xk"
+      }
+    }
+  },
   "package": "yyc.xk.core",
   "recommendation": "@recommended"
 }
