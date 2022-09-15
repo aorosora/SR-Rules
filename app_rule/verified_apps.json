@@ -1,8 +1,182 @@
 [
   {
-    "package_name": "com.dv.adm",
+    "package_name": "com.dv.adm"
   },
   {
-    "package_name": "remix.myplayer",
+    "package_name": "remix.myplayer"
+  },
+  {
+    "package_name": "com.amazon.mShop.android.shopping"
+  },
+  {
+    "package_name": "com.czy0729.bangumi"
+  },
+  {
+    "package_name": "com.sony.songpal.mdr"
+  },
+  {
+    "package_name": "com.oasisfeng.greenify"
+  },
+  {
+    "package_name": "wangdaye.com.geometricweather"
+  },
+  {
+    "package_name": "com.mxtech.videoplayer.pro"
+  },
+  {
+    "package_name": "jp.co.cygames.umamusume"
+  },
+  {
+    "package_name": "com.huawei.appmarket"
+  },
+  {
+    "package_name": "com.lonelycatgames.Xplore"
+  },
+  {
+    "package_name": "com.paypal.android.p2pmobile"
+  },
+  {
+    "package_name": "com.v2ray.v2fly"
+  },
+  {
+    "package_name": "com.discord"
+  },
+  {
+    "package_name": "com.nintendo.znca"
+  },
+  {
+    "package_name": "be.mygod.vpnhotspot"
+  },
+  {
+    "package_name": "com.microsoft.office.excel"
+  },
+  {
+    "package_name": "com.microsoft.skydrive"
+  },
+  {
+    "package_name": "com.reddit.frontpage"
+  },
+  {
+    "package_name": "com.YostarJP.BlueArchive"
+  },
+  {
+    "package_name": "me.piebridge.brevent"
+  },
+  {
+    "package_name": "moe.shizuku.redirectstorage"
+  },
+  {
+    "package_name": "com.catalinagroup.callrecorder"
+  },
+  {
+    "package_name": "com.microsoft.office.onenote"
+  },
+  {
+    "package_name": "bin.mt.plus"
+  },
+  {
+    "package_name": "jp.co.canon.bsd.ad.pixmaprint"
+  },
+  {
+    "package_name": "org.moegirl.moepad"
+  },
+  {
+    "package_name": "com.zacharee1.systemuituner"
+  },
+  {
+    "package_name": "com.supercell.clashofclans"
+  },
+  {
+    "package_name": "com.coffeebeanventures.easyvoicerecorder"
+  },
+  {
+    "package_name": "com.zhaozhao.zhang.luxunqj"
+  },
+  {
+    "package_name": "io.nekohasekai.sagernet"
+  },
+  {
+    "package_name": "pro.capture.screenshot"
+  },
+  {
+    "package_name": "com.twitter.android"
+  },
+  {
+    "package_name": "org.wikipedia"
+  },
+  {
+    "package_name": "com.microsoft.office.word"
+  },
+  {
+    "package_name": "com.microsoft.rdc.androidx"
+  },
+  {
+    "package_name": "com.microsoft.office.powerpoint"
+  },
+  {
+    "package_name": "com.google.android.calculator"
+  },
+  {
+    "package_name": "rikka.smscodehelper"
+  },
+  {
+    "package_name": "tv.twitch.android.app"
+  },
+  {
+    "package_name": "org.torproject.torbrowser"
+  },
+  {
+    "package_name": "nekox.messenger"
+  },
+  {
+    "package_name": "ru.zdevs.zarchiver.pro"
+  },
+  {
+    "package_name": "rikka.appops"
+  },
+  {
+    "package_name": "com.google.android.apps.googlevoice"
+  },
+  {
+    "package_name": "com.x8bit.bitwarden"
+  },
+  {
+    "package_name": "remix.myplayer"
+  },
+  {
+    "package_name": "com.sonelli.juicessh"
+  },
+  {
+    "package_name": "com.valvesoftware.android.steam.community"
+  },
+  {
+    "package_name": "com.perol.play.pixez"
+  },
+  {
+    "package_name": "com.faultexception.reader"
+  },
+  {
+    "package_name": "com.google.android.apps.translate"
+  },
+  {
+    "package_name": "io.github.yueeng.hacg"
+  },
+  {
+    "package_name": "com.gombosdev.ampere"
+  },
+  {
+    "package_name": "com.google.android.play.games"
+  },
+  {
+    "package_name": "io.github.vvb2060.mahoshojo"
+  },
+  {
+    "package_name": "flar2.devcheck"
+  },
+  {
+    "package_name": "io.github.forkmaintainers.iceraven"
+  },
+  {
+    "package_name": "com.bitcomet.android"
   }
 ]

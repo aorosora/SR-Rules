@@ -1,0 +1,11 @@
+{
+  "verified": true,
+  "last_update": {
+    "timestamp": 1663235216
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.tencent.wework",
+  "recommendation": "@recommended"
+}

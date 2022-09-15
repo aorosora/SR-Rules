@@ -1,0 +1,11 @@
+{
+  "verified": true,
+  "last_update": {
+    "timestamp": 1663235216
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "mobi.w3studio.apps.android.shsmy.phone",
+  "recommendation": "@recommended"
+}
